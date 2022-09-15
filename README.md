@@ -1,1 +1,2 @@
-# rabbitmq-stomp-docker-arm64v8
+Dockerfile and compose file for rabbitmq-stomp 
+
